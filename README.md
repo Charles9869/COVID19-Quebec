@@ -10,12 +10,19 @@ Simple application where you can see the number of Covid-19 cases in Quebec. The
 - Cheerio
 
 ## RUN LOCALLY
-
-- clone using https://github.com/Charles9869/COVID19-Quebec.git
-- yarn install in both the server and client folder
-- To start the server, go inside the server folder and yarn dev
-- To start the client, go inside client and yarn start
-
+```
+git clone https://github.com/Charles9869/COVID19-Quebec.git
+```
+```
+cd server
+yarn install
+yarn dev
+```
+```
+cd client
+yarn install
+yarn start
+```
 ## SCREENSHOTS
 
 ### First Chart
