@@ -1,7 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
-// const fetch = require('isomorphic-fetch');
 const cheerio = require('cheerio');
 const request = require('request');
 const cors = require('cors');
