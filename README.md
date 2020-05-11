@@ -11,17 +11,17 @@ Simple application where you can see the number of Covid-19 cases in Quebec. The
 
 ## RUN LOCALLY
 ```
-git clone https://github.com/Charles9869/COVID19-Quebec.git
+$ git clone https://github.com/Charles9869/COVID19-Quebec.git
 ```
 ```
-cd server
-yarn install
-yarn dev
+$ cd server
+$ yarn install
+$ yarn dev
 ```
 ```
-cd client
-yarn install
-yarn start
+$ cd client
+$ yarn install
+$ yarn start
 ```
 ## SCREENSHOTS
 
